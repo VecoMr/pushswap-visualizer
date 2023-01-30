@@ -1,0 +1,9 @@
+USAGE
+    ./pushswap_bonus [instruction] list [flag]
+
+DESCRIPTION
+    [instruction]   Les opérations du pushswap il est facultatif
+                    car ils peuvent être donnés à l'aide d'un PIPE
+    list            Une liste d'entier séparer par des entiers
+    [flag]          Si [-b] est activer [instruction] -> [path to the binary],
+                    list -> [path to the list]
