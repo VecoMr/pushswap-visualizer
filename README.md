@@ -26,7 +26,7 @@ C'est simple:
 
 python3 pushswap_bonus [instruction] list [flag]
 
-**[instruction]**: C'est facultatif. Vous pouvez fournir les opérations du pushswap directement ou via un PIPE.
-**list**: Votre liste d'entiers que vous souhaitez trier.
-**[flag]**: Si vous utilisez `[-b]`, cela modifie légèrement la manière dont vous fournissez les entrées.
-    *[-b]*: [instruction] -> path vers les opération | [list] -> path vers la liste d'entier
+**[instruction]**: C'est facultatif. Vous pouvez fournir les opérations du pushswap directement ou via un PIPE.  
+**list**: Votre liste d'entiers que vous souhaitez trier.  
+**[flag]**: Si vous utilisez `[-b]`, cela modifie légèrement la manière dont vous fournissez les entrées.  
+- `[-b]`: [instruction] -> path vers les opération | [list] -> path vers la liste d'entier  
